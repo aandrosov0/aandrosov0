@@ -11,7 +11,7 @@
 </div>
 
 ### :man_technologist: About me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m building web applications.
 
 - :seedling: Exploring Technical Content Writing.
