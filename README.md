@@ -11,11 +11,13 @@
 </div>
 
 ### :man_technologist: About me:
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m building web applications.
+
+- 📱 I'm building android applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: I read tech articles.
 
-- :mailbox:How to reach me: aandrosov338@gmail.com
+- :mailbox: How to reach me: aandrosov338@gmail.com
