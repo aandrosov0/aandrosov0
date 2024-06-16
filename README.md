@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anton Androsov</h1>
-<h3 align="center">A Java Developer from Russia</h3>
+<h3 align="center">A Mobile Developer from Russia</h3>
 
-- 🌱 I’m currently learning **Web and Android development**
+- 🌱 I’m currently learning **Android development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aandrosov0](https://github.com/aandrosov0)
 
