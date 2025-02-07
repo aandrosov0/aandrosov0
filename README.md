@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Anton Androsov</h1>
 <h3 align="center">A Software Developer from Russia</h3>
 
-- 🌱 I’m currently learning **Software development**
+- 🌱 I’m currently learning **Software development** and work at freelance [https://github.com/aandrosov0](https://github.com/aandrosov0)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aandrosov0](https://github.com/aandrosov0)
 
